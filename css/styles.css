@@ -1,0 +1,26 @@
+.container {
+
+}
+
+.titlebox {
+  background-color: gray;
+  height: 25%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+}
+
+.titletext {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.navbar {
+
+}
+
+.navtext {
+
+}
