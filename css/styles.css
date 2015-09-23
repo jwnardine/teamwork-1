@@ -1,0 +1,91 @@
+.container {
+  overflow: hidden;
+
+}
+
+.titlebox {
+  background-image: url('../img/stars.jpg');
+  color: white;
+  height: 25%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+}
+
+.titletext {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.navbar {
+  background: gray;
+  height: 25%;
+  width: 100%;
+  margin: 0px;
+  padding: 4px;
+  border: 1px solid #000;
+}
+
+.navtext {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+.sidebar {
+  background-color: black;
+  padding-bottom: 20000px;
+  margin-bottom: -20000px;
+  overflow: hidden;
+}
+.sidebartext {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+
+}
+
+.column {
+  background: gray;
+  width: 70%;
+  float: left;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+  overflow: hidden;
+  display: block;
+}
+
+.columntext {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.castimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  max-height: 600px;
+}
+
+.castname {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.casttext {
+  font-size: 20px;
+
+}
+
+
+body {
+  font-family: sans-serif;
+}
