@@ -1,9 +1,15 @@
 .container {
-
+  background-color: gray;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  overflow-y: hidden;
+  display: block;
 }
 
 .titlebox {
-  background-color: gray;
+  background-image: url('../img/stars.jpg');
+  color: white;
   height: 25%;
   width: 100%;
   margin: 0px;
@@ -18,9 +24,79 @@
 }
 
 .navbar {
-
+  background: gray;
+  height: 25%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
 }
 
 .navtext {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
 
+.movieposter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  max-height: 600px;
+}
+
+.sidebar {
+  background-color: gray;
+  margin: 0px;
+  padding: 0px;
+  height: 100%
+  min-height: 100%;
+  width: 30%;
+  float: right;
+  clear: both;
+  overflow-y: hidden;
+  display: block;
+}
+
+.sidebartext {
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.column {
+  background: yellow;
+  width: 70%;
+  float: left;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+  overflow-y: hidden;
+  display: block;
+}
+
+.columntext {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.castimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+  max-height: 600px;
+}
+
+.castname {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.casttext {
+  font-size: 20px;
+  
 }
