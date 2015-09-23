@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _E.T. The Extra Terrestrial Groupwork_
 
 ##### _E.T. The Extra Terrestrial Unofficial Website, 9/23/15_
 
@@ -6,27 +6,24 @@
 
 ## Description
 
-_We've created a webpage dedicated to the fit 1982 film, E.T.: The Extra Terrestrial. Included on the site is a cast list, video clips from the film, and more! This is a webpage to demonstrate our knowledge of HTML, CSS, Bootstrap and our ability to work in pairs using branching, merging and GitHub:
+_We've created a webpage dedicated to the fit 1982 film, E.T.: The Extra Terrestrial. Included on the site is a cast list, video clips from the film, and more! This is a webpage to demonstrate our knowledge of HTML, CSS, Bootstrap and our ability to work in pairs using branching, merging and GitHub:_
 
-Uses of all of the HTML tags need to accurately create the layout test.
-Indentation and spacing of HTML and CSS is accurate.
-Uses the HTML class attribute to accurately complete the layout test.
-A custom made stylesheet that uses HTML selectors and css properties and values correctly.
-Bootstrap
-Using Github for working independently and on a team through branching, merging and GitHub_
+* _Uses of all of the HTML tags need to accurately create the layout test._
+* _Indentation and spacing of HTML and CSS is accurate._
+* _Uses the HTML class attribute to accurately complete the layout test._
+* _A custom made stylesheet that uses HTML selectors and css properties and values correctly._
+* _Bootstrap_
+* _Using Github for working independently and on a team through branching, merging and GitHub_
 
 ## Setup
 
 * Use the below link to view the webpage and learn about the movie ET.
 
+##Link to Github Page
 
-## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
 ### Legal
-
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
 
 Copyright (c) 2015 **_Jack, Jon, Kassim, and Joseph_**
 
