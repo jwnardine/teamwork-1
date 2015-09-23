@@ -1,10 +1,6 @@
 .container {
-  background-color: gray;
-  margin: 0px;
-  padding: 0px;
-  height: 100%;
-  overflow-y: hidden;
-  display: block;
+  overflow: hidden;
+
 }
 
 .titlebox {
@@ -29,6 +25,7 @@
   width: 100%;
   margin: 0px;
   padding: 0px;
+  border: 1px solid #000;
 }
 
 .navtext {
@@ -37,42 +34,29 @@
   font-size: 20px;
 }
 
-.movieposter {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 600px;
-  max-height: 600px;
-}
 
 .sidebar {
-  background-color: gray;
-  margin: 0px;
-  padding: 0px;
-  height: 100%
-  min-height: 100%;
-  width: 30%;
-  float: right;
-  clear: both;
-  overflow-y: hidden;
-  display: block;
+  background-color: black;
+  padding-bottom: 20000px;
+  margin-bottom: -20000px;
+  overflow: hidden;
 }
-
 .sidebartext {
   padding-left: 10px;
   padding-right: 10px;
+  color: white;
 
 }
 
 .column {
-  background: yellow;
+  background: gray;
   width: 70%;
   float: left;
   height: 100%;
   margin: 0px;
   padding: 0px;
   clear: both;
-  overflow-y: hidden;
+  overflow: hidden;
   display: block;
 }
 
@@ -98,5 +82,5 @@
 
 .casttext {
   font-size: 20px;
-  
+
 }
